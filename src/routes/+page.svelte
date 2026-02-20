@@ -15,7 +15,7 @@
 <style>
 
   :global(body) {
-    background-color: #121212;
+    background-color: #50abe7;
     margin: 0;
     overflow: hidden;
   }

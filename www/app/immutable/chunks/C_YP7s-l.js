@@ -1,1 +1,0 @@
-import{g as a,i as c,j as n,k as u,u as f,l as s,q as o}from"./DZTPfT22.js";function k(i){let e=0,r=u(0),t;return()=>{a()&&(c(r),n(()=>(e===0&&(t=f(()=>i(()=>s(r)))),e+=1,()=>{o(()=>{e-=1,e===0&&(t?.(),t=void 0,s(r))})})))}}export{k as c};
