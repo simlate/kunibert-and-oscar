@@ -15,7 +15,8 @@
 <style>
 
   :global(body) {
-    background-color: #50abe7;
+    color-scheme: light dark;
+    background-color: light-dark(#fff, #121212);
     margin: 0;
     overflow: hidden;
   }
@@ -26,6 +27,7 @@
     left: 0;
     width: 100vw;
     height: 100vh;
+    height: 100dvh;
   }
 
 </style>

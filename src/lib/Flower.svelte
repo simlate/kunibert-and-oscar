@@ -7,6 +7,7 @@
   }
   let { children, ...rest }: GroupProps = $props()
 </script>
+
 <T.Group {...rest}>
   <!-- Correct rotation -->
   <T.Group rotation.x={MathUtils.DEG2RAD * 90}>
