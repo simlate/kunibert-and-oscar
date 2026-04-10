@@ -117,10 +117,11 @@
   <T.MeshStandardMaterial>
     <RadialGradientTexture
       innerRadius={390}
-      outerRadius={"auto"}
+      outerRadius={512}
       stops={[
         { color: "#102016", offset: 0 },
-        { color: "#ff8800", offset: 1 }
+        { color: "#ff6600", offset: 0.5 },
+        { color: "#0066ff", offset: 1 }
       ]}
     />
   </T.MeshStandardMaterial>
